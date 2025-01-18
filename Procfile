@@ -1,1 +1,1 @@
-web: npm start 
+worker: python3 src/processor.py 
